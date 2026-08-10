@@ -1,4 +1,4 @@
 {
-  "server": { "host": "your-server-host.example.com", "port": 28000 },
+  "server": { "host": "bore.pub", "port": 52971 },
   "message": "Welcome to Legacy Client"
 }
