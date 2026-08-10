@@ -1,0 +1,4 @@
+{
+  "server": { "host": "your-server-host.example.com", "port": 28000 },
+  "message": "Welcome to Legacy Client"
+}
