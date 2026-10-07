@@ -1,4 +1,27 @@
 {
-  "server": { "host": "bore.pub", "port": 52971 },
-  "message": "Welcome to Legacy Client"
+  "server": {
+    "host": "bore.pub",
+    "port": 52971
+  },
+  "message": "Welcome to Legacy Client",
+  "components": {
+    "version": "1.0",
+    "files": [
+      {
+        "name": "Launcher.exe",
+        "url": "https://github.com/s3thku/legacy-client/releases/download/components-1.0/Launcher.exe",
+        "sha256": "0f746c7310afb6f0e5a3fbd29afdc54c6511935215a510c87ae149ae5b20a480"
+      },
+      {
+        "name": "Injector.exe",
+        "url": "https://github.com/s3thku/legacy-client/releases/download/components-1.0/Injector.exe",
+        "sha256": "19c81d0414888feda13e7d3a7f4c50879ee88f3c75199c5dcc6f64597cab39c9"
+      },
+      {
+        "name": "Module.dll",
+        "url": "https://github.com/s3thku/legacy-client/releases/download/components-1.0/Module.dll",
+        "sha256": "a58013adfab7cf89300a36f53503d0cb7151afccbb40506792a72f909ad37de5"
+      }
+    ]
+  }
 }
